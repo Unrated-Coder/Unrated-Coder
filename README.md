@@ -1,4 +1,5 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:7928ca,100:ff007f&height=260&section=header&text=UNRATED%20CODER%20™&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=A%20Collective%20of%20Builders%20%7C%20Open%20Source%20%7C%20Automation&descAlignY=60&descSize=20" width="100%"/>
 
 <a href="https://t.me/Unrated_Coder">
@@ -42,15 +43,15 @@
 ## What We Ship
 
 > [!TIP]
-> ### Free Open Source Repositories
+> **Free Open Source Repositories**  
 > Production-ready boilerplates, utilities, web apps, and code bases accessible for anyone to clone and fork.
 
 > [!IMPORTANT]
-> ### Smart Automation and Bots
+> **Smart Automation and Bots**  
 > High-performance web scrapers, Telegram and Discord bot frameworks, and API automation tools.
 
 > [!CAUTION]
-> ### System Design and DSA Documentation
+> **System Design and DSA Documentation**  
 > Architectural breakdowns, data structures, and algorithmic patterns documented for developer learning.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff,50:7928ca,100:ff007f&height=4" width="100%"/>
@@ -58,10 +59,15 @@
 ## Tech Stack and Ecosystem
 
 <p align="center">
-  <b>Languages and Frameworks</b><br><br>
+  <b>Languages and Frameworks</b>
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,cpp,java,html,css&perline=10" />
-  <br><br>
-  <b>Databases, DevOps and Tools</b><br><br>
+</p>
+<p align="center">
+  <b>Databases, DevOps and Tools</b>
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,linux,git,github,vscode,figma&perline=10" />
 </p>
 
@@ -70,19 +76,21 @@
 ## Dynamic Analytics and Metrics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Unrated-Coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&border_radius=12" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unrated-Coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&border_radius=12" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Unrated-Coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&border_radius=12&cache_seconds=86400" alt="GitHub Stats" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unrated-Coder&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=ff007f&currStreakLabel=00f7ff&border_radius=12" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Unrated-Coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&border_radius=12&cache_seconds=86400" alt="Top Languages" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unrated-Coder&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=ff007f&currStreakLabel=00f7ff&border_radius=12" alt="Streak Stats" width="95%" />
 </p>
 
 ## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Unrated-Coder&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Unrated-Coder&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff" width="100%" alt="Activity Graph" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff,50:7928ca,100:ff007f&height=4" width="100%"/>
@@ -109,7 +117,7 @@ Looking for collaboration, requesting a custom tool, or wanting to contribute? J
   <img src="https://img.shields.io/badge/Explore_Repos-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<b>Star repositories that help your workflow to support open-source development.</b>
+<p><b>Star repositories that help your workflow to support open-source development.</b></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:7928ca,100:ff007f&height=140&section=footer" width="100%"/>
 
