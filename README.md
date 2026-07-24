@@ -1,6 +1,5 @@
 <div align="center">
-
-<!-- Typing animation header -->
+  
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Unrated+Coder+%E2%84%A2;Full+Stack+Developer;Open+Source+Enthusiast;Telegram%3A+%40Unrated_Coder" alt="Typing SVG" />
 </a>
@@ -9,7 +8,6 @@
 
 </div>
 
-<!-- Social badges -->
 <p align="center">
   <a href="https://t.me/Unrated_Coder">
     <img src="https://img.shields.io/badge/Telegram-@Unrated__Coder-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -66,63 +64,11 @@ fun_fact: "I debug my code by talking to my rubber duck 🦆"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Unrated-Coder&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
-> ⚠️ Replace `Unrated-Coder` above with your **exact GitHub username** so the stats load correctly.
-
 ---
-
-### 🐍 Contribution Snake Animation
-
-This is the "rocket-style" contribution graph animation from the reel — it's called the **GitHub Contribution Snake**, generated automatically via GitHub Actions.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Unrated-Coder/Unrated-Coder/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
-**Setup steps (do this once in your profile repo):**
-
-1. Create a new file: `.github/workflows/snake.yml`
-2. Paste this workflow:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch: {}
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: actions/upload-artifact@v4
-        with:
-          name: github-contribution-grid-snake
-          path: dist/
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Commit → Actions tab → run the workflow once manually.
-4. It will create an `output` branch with the SVG — that's the URL used above.
 
 ---
 
