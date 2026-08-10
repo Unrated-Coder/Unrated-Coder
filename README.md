@@ -43,16 +43,13 @@
 ## What We Ship
 
 > [!TIP]
-> **Free Open Source Repositories**  
-> Production-ready boilerplates, utilities, web apps, and code bases accessible for anyone to clone and fork.
+> **Free Open Source Repositories** > Production-ready boilerplates, utilities, web apps, and code bases accessible for anyone to clone and fork.
 
 > [!IMPORTANT]
-> **Smart Automation and Bots**  
-> High-performance web scrapers, Telegram and Discord bot frameworks, and API automation tools.
+> **Smart Automation and Bots** > High-performance web scrapers, Telegram and Discord bot frameworks, and API automation tools.
 
 > [!CAUTION]
-> **System Design and DSA Documentation**  
-> Architectural breakdowns, data structures, and algorithmic patterns documented for developer learning.
+> **System Design and DSA Documentation** > Architectural breakdowns, data structures, and algorithmic patterns documented for developer learning.
 
 <a href="#!"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff,50:7928ca,100:ff007f&height=4" width="100%"/></a>
 
@@ -76,11 +73,11 @@
 ## Dynamic Analytics and Metrics
 
 <p align="center">
-  <a href="#!"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Unrated-Coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&border_radius=12&cache_seconds=86400" alt="GitHub Stats" width="95%" /></a>
+  <a href="#!"><img src="https://github-readme-stats-fast.vercel.app/api?username=Unrated-Coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&border_radius=12" alt="GitHub Stats" width="95%" /></a>
 </p>
 
 <p align="center">
-  <a href="#!"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Unrated-Coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&border_radius=12&cache_seconds=86400" alt="Top Languages" width="95%" /></a>
+  <a href="#!"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Unrated-Coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&border_radius=12" alt="Top Languages" width="95%" /></a>
 </p>
 
 <p align="center">
