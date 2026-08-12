@@ -10,7 +10,7 @@
   <a href="https://t.me/Unrated_Coder">
     <img src="https://img.shields.io/badge/Telegram-Join_Community-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://github.com/Unrated-Coder">
+  <a href="[https://github.com/Unrated-Coder](https://github.com/Unrated-Coder?tab=repositories)">
     <img src="https://img.shields.io/badge/GitHub-Explore_Repos-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="#!"><img src="https://img.shields.io/badge/Status-Actively_Shipping-00C853?style=for-the-badge" /></a>
