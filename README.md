@@ -110,7 +110,7 @@ Looking for collaboration, requesting a custom tool, or wanting to contribute? J
   <img src="https://img.shields.io/badge/Join_Telegram-@Unrated__Coder-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Unrated-Coder">
+<a href="https://github.com/Unrated-Coder?tab=repositories">
   <img src="https://img.shields.io/badge/Explore_Repos-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
