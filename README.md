@@ -87,7 +87,7 @@
 ## Activity Graph
 
 <p align="center">
-  <a href="#!"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Unrated-Coder&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff" width="100%" alt="Activity Graph" /></a>
+  <a href="#!"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unrated-Coder&theme=tokyonight" alt="GitHub Stats" width="95%" /></a>
 </p>
 
 <a href="#!"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff,50:7928ca,100:ff007f&height=4" width="100%"/></a>
